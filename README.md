@@ -2,10 +2,6 @@
     <img src="gif/projeto_anna_bella.gif">
 </h1>
 
-<h3 align="center">
-    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos/projeto_anna_bella/" target="_blank">Acessar demonstração</a>
-</h3>
-
 ---
 
 ## 📋 Sobre
